@@ -1,4 +1,9 @@
 html {
     background-color: rgb(255, 184, 194);
-    
+}
+.square-list {
+    list-style-type: square;
+}
+.letter-list {
+    list-style-type: upper-alpha;
 }
