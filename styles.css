@@ -8,3 +8,9 @@ html {
 .letter-list {
     list-style-type: upper-alpha;
 }
+.nav {
+    list-style: none;
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin-right: 750px;
+}
